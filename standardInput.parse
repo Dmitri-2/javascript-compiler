@@ -1,0 +1,7 @@
+0:0 module
+  Name: standardInput
+  1:1 call
+    Method Name: 1:1 identifier‹print›
+    Arguments:
+      Part: print
+          1:7 string(hello)
